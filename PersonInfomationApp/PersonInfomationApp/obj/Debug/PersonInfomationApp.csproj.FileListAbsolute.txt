@@ -1,0 +1,10 @@
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\bin\Debug\PersonInfomationApp.exe.config
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\bin\Debug\PersonInfomationApp.exe
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\bin\Debug\PersonInfomationApp.pdb
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.csprojResolveAssemblyReference.cache
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.Form1.resources
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.Properties.Resources.resources
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.csproj.GenerateResource.Cache
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.exe
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\obj\Debug\PersonInfomationApp.pdb
+F:\Shawon\PersonInfomationApp\PersonInfomationApp\bin\Debug\CSVLib.dll
